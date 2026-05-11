@@ -388,7 +388,7 @@ nav.scrolled {
 
 .hero-scroll {
   position: absolute;
-  bottom: 48px;
+  bottom: 21px;
   left: 56px;
   display: flex;
   align-items: center;
